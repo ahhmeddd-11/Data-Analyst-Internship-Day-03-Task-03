@@ -30,8 +30,8 @@ Design and build an interactive sales dashboard using Power BI.
 ---
 
 ## 📤 Deliverables
-    Interactive Power BI file
-    Exported PDF version of dashboard
-    Presentation file summarizing the dashboard
+    - Interactive Power BI file
+    - Exported PDF version of dashboard
+    - Presentation file summarizing the dashboard
 
 ---
