@@ -1,37 +1,28 @@
-# Data-Analyst-Internship-Day-03
-## Task-03-Interactive Dashboard Design
+# Task 3 - SQL for Data Analysis
 
-## 📌 Objective
-Design and build an interactive sales dashboard using Power BI.
+## Overview
 
----
+This task involved using SQL to extract, join, and analyze data from an e-commerce database, focusing on query design and performance.
 
-## 📁 Dataset
-    - **Name:** Sample Superstore
-    - **Source:** Kaggle
-    - **Fields Used:** Order Date, Sales, Profit, Region, Segment, Category, Order ID
+## Tools Used
 
----
+- MySQL
 
-## 🛠 Tools Used
-    - Power BI Desktop
-    - PowerPoint
+## Objectives
 
----
+- Perform joins and filtering
+- Use aggregate functions and subqueries
+- Create views for better insights
 
-## 📊 Dashboard Features
-    - **KPI Cards**
-    - **Sales Trend Over Time**
-    - **Profit by Region**
-    - **Sales by Category and Sub-Category**
-    - **Segment-wise Profit**
-    - **Filters/Slicers**
+## Approach
 
----
+Data was extracted and analyzed using SQL queries. Key operations included grouping, filtering, joining tables, and creating views for high-value customers.
 
-## 📤 Deliverables
-    - Interactive Power BI file
-    - Exported PDF version of dashboard
-    - Presentation file summarizing the dashboard
+## Deliverables
 
----
+- SQL script with queries
+- Screenshots of outputs
+
+## Author
+
+Syed Ahmed Ali
